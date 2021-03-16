@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+    </head>
+    <body>
+        
+        <h1>ANETA SULLIVAN</h1>
+
+        <h3>What to Expect:</h3>
+        <ul>
+            <li>Who am I?</li>
+            <li>Resume</li>
+            <li>Portfolio</li>
+            <li>Interests</li>
+        </ul>
+        
+        <h2>Who am I?</h2>
+        <p> My name is <strong>Aneta Sullivan</strong>, and I am a self-motivated, creative and analytical Pace University graduate <br>
+        from the Czech Republic that is passionate about Media and Design Marketing. By traveling the world, I was able to gain <br>
+        many experiences with unfamiliar situations that taught me how to <em>adapt quickly</em> and to <em>solve any problems</em> on the way. <br>
+        I am always looking for new challenges that will help me to move forward to achieving my goals. 
+        
+        
+        <h6>Posted on some date in some year</h6>
+        
+        <p>Something excited happened.</p>
